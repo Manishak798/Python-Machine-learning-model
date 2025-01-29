@@ -3,6 +3,9 @@ Predicting User Behavior & Crafting Perfect Playlists
 
 Welcome to MelodyMind, your ultimate machine learning solution for predicting user behavior and delivering personalized song recommendations on music streaming platforms! 🎧✨
 
+## Project-Img
+![image](https://github.com/user-attachments/assets/4b8ab9da-a72e-409d-af8b-5d5e8effe25a)
+
 ## 🌟 Features
 **🎯 User Behavior Prediction:**
 Analyze user interactions like listening history, likes, dislikes, and skips to predict their behavior patterns.
