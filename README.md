@@ -23,7 +23,8 @@ Train the ML model on the collected data to learn user behavior patterns.
 **🔮 Prediction:**
 Use the trained model to predict user behavior and recommend songs tailored to their preferences.
 
-**🚀 Why MelodyMind?**
+## 🚀 Why MelodyMind?
+
 **🎧 Enhanced User Experience:**
 Keep users engaged with personalized recommendations they’ll love.
 
